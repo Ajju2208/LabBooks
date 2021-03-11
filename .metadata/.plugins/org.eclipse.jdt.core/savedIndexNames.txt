@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+X:\capg intern\Cap_softwares\CoreJavaLabBook\.metadata\.plugins\org.eclipse.jdt.core
+3197138120.index
+552919403.index
+3120410833.index
+664348018.index
+3382133854.index
+1475596797.index
